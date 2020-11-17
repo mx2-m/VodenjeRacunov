@@ -1,0 +1,34 @@
+{
+  "id": "99ff7527-85e3-4f41-830b-6b97a1799d05",
+  "name": "Cola",
+  "ean13": "45056123451",
+  "price": 6.20,
+  "quantity": 2,
+  "davek": 0.1,
+  "created": {
+    "date": {
+      "year": 2020,
+      "month": 5,
+      "day": 19
+    },
+    "time": {
+      "hour": 0,
+      "minute": 35,
+      "second": 52,
+      "nano": 238000000
+    }
+  },
+  "modified": {
+    "date": {
+      "year": 2020,
+      "month": 5,
+      "day": 19
+    },
+    "time": {
+      "hour": 0,
+      "minute": 35,
+      "second": 52,
+      "nano": 245000000
+    }
+  }
+}

@@ -1,0 +1,209 @@
+[
+  {
+    "id": "0aa89757-a1c5-4659-8f10-a6a22743a0db",
+    "created": {
+      "date": {
+        "year": 2020,
+        "month": 5,
+        "day": 22
+      },
+      "time": {
+        "hour": 2,
+        "minute": 23,
+        "second": 46,
+        "nano": 29000000
+      }
+    },
+    "modified": {
+      "date": {
+        "year": 2020,
+        "month": 5,
+        "day": 22
+      },
+      "time": {
+        "hour": 2,
+        "minute": 23,
+        "second": 46,
+        "nano": 132000000
+      }
+    },
+    "discount": 10.5,
+    "price": 59.10,
+    "issuer": {
+      "name": "Lidl Slovenija d.o.o. k.d",
+      "taxNumber": 746243764,
+      "registrationNumber": "14535136",
+      "taxpayer": false,
+      "address": "Pod lipami 1, 1218 Komenda"
+    },
+    "cashier": " 24",
+    "invoiceNumber": "dbdb1711-6243-4fac-b238-c5e857e2f066",
+    "items": {
+      "created": {
+        "date": {
+          "year": 2020,
+          "month": 5,
+          "day": 22
+        },
+        "time": {
+          "hour": 2,
+          "minute": 23,
+          "second": 46,
+          "nano": 28000000
+        }
+      },
+      "modified": {
+        "date": {
+          "year": 2020,
+          "month": 5,
+          "day": 22
+        },
+        "time": {
+          "hour": 2,
+          "minute": 23,
+          "second": 46,
+          "nano": 28000000
+        }
+      },
+      "Lista": {
+        "13456123451": {
+          "id": "55a323b1-ea4f-4b57-881b-aab4c35a6590",
+          "name": "Vafli",
+          "ean13": "13456123451",
+          "price": 6.20,
+          "quantity": 2,
+          "davek": 0.1,
+          "created": {
+            "date": {
+              "year": 2020,
+              "month": 5,
+              "day": 22
+            },
+            "time": {
+              "hour": 2,
+              "minute": 23,
+              "second": 46,
+              "nano": 25000000
+            }
+          },
+          "modified": {
+            "date": {
+              "year": 2020,
+              "month": 5,
+              "day": 22
+            },
+            "time": {
+              "hour": 2,
+              "minute": 23,
+              "second": 46,
+              "nano": 31000000
+            }
+          }
+        },
+        "33456123451": {
+          "id": "b108544d-fa25-434c-9baf-9f4d1f9f2eb0",
+          "name": "Mandarine",
+          "ean13": "33456123451",
+          "price": 6.20,
+          "quantity": 2,
+          "davek": 0.1,
+          "created": {
+            "date": {
+              "year": 2020,
+              "month": 5,
+              "day": 22
+            },
+            "time": {
+              "hour": 2,
+              "minute": 23,
+              "second": 46,
+              "nano": 25000000
+            }
+          },
+          "modified": {
+            "date": {
+              "year": 2020,
+              "month": 5,
+              "day": 22
+            },
+            "time": {
+              "hour": 2,
+              "minute": 23,
+              "second": 46,
+              "nano": 32000000
+            }
+          }
+        },
+        "23456123451": {
+          "id": "b31b0af1-c5d4-4d94-93a4-76df5ed0b1d1",
+          "name": "Cokolada",
+          "ean13": "23456123451",
+          "price": 6.20,
+          "quantity": 2,
+          "davek": 0.1,
+          "created": {
+            "date": {
+              "year": 2020,
+              "month": 5,
+              "day": 22
+            },
+            "time": {
+              "hour": 2,
+              "minute": 23,
+              "second": 46,
+              "nano": 26000000
+            }
+          },
+          "modified": {
+            "date": {
+              "year": 2020,
+              "month": 5,
+              "day": 22
+            },
+            "time": {
+              "hour": 2,
+              "minute": 23,
+              "second": 46,
+              "nano": 32000000
+            }
+          }
+        },
+        "2116789002000": {
+          "department": "Sadje",
+          "id": "dfccc611-b3d3-44d0-808d-6afc9954a68a",
+          "name": "Banane",
+          "ean13": "2116789002000",
+          "price": 6.20,
+          "quantity": 1,
+          "davek": 0.1,
+          "created": {
+            "date": {
+              "year": 2020,
+              "month": 5,
+              "day": 22
+            },
+            "time": {
+              "hour": 2,
+              "minute": 23,
+              "second": 46,
+              "nano": 26000000
+            }
+          },
+          "modified": {
+            "date": {
+              "year": 2020,
+              "month": 5,
+              "day": 22
+            },
+            "time": {
+              "hour": 2,
+              "minute": 23,
+              "second": 46,
+              "nano": 32000000
+            }
+          }
+        }
+      }
+    }
+  }
+]
