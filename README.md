@@ -1,2 +1,2 @@
-# VodenjeRacunov
-Aplikacija za upravljanje sa racunima
+# Account management
+
